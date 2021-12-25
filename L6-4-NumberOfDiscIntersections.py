@@ -1,4 +1,6 @@
-# Wasn't able to write an efficient algorithm for this one. The easy solution gave only 50% score as it ran with O(N^2). John Mee has written an efficient algorithm for this and has made it available on Github: https://github.com/johnmee/codility/blob/master/ex-6-4-NumberOfDiscIntersections.py
+# Wasn't able to write an efficient algorithm for this one. The easy solution gave only 50% score as it ran with O(N^2). 
+#John Mee has written an efficient algorithm for this problem 
+#and he has made it available on Github: https://github.com/johnmee/codility/blob/master/ex-6-4-NumberOfDiscIntersections.py
 
 
 
